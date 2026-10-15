@@ -35,3 +35,7 @@
 - **Poder, habilitat o tecnologia principal:** Control dels fenòmens meteorològics.
 - **Origen:** Heroïna amb capacitats capaces d'alterar el clima.
 - **Funció dins de la saga:** Defensa de grans zones i suport a l'equip.
+
+## Relació entre herois
+
+Iron Man i Captain America mantenen una relació basada en la confiança i en les seves diferents maneres de liderar l'equip. Amb el temps aprenen a combinar tecnologia i experiència per prendre decisions conjuntament.

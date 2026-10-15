@@ -20,3 +20,10 @@
 - **Escenari principal:** Una base secreta dels Avengers
 - **Resum de l'argument:** Els herois decideixen unir forces i formar els Avengers per poder afrontar amenaces que individualment no poden derrotar.
 - **Relació amb la història:** Capítol 3: La formació dels Avengers.
+
+## 4. El Futur de l'Univers
+- **Protagonistes:** Iron Man, Black Panther, Spider-Man, Captain America i Tempesta
+- **Antagonista:** Ciberlord
+- **Escenari principal:** Una ciutat futurista connectada a una xarxa mundial.
+- **Resum de l'argument:** Després dels esdeveniments anteriors, els herois descobreixen que Ciberlord ha aconseguit infiltrar-se en les xarxes tecnològiques del planeta. L'equip haurà de treballar conjuntament per recuperar el control.
+- **Relació amb la història:** Capítol 5: El futur de l'univers cinematogràfic.
